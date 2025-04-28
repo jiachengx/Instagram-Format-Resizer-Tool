@@ -14,7 +14,7 @@ A simple, user-friendly Tkinter GUI application for resizing images to Instagram
 
 ## Preview
 
-![Instagram Format Resizer Tool](https://via.placeholder.com/600x400?text=Instagram+Format+Resizer+Preview)
+![Instagram Format Resizer Tool](https://github.com/jiachengx/Instagram-Format-Resizer-Tool/blob/main/GUI.jpg)
 
 
 ## Requirements
